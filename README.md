@@ -3,4 +3,6 @@
 I cover the following topics
 - Machine learning
 - Power profiling
-- Energy efficiency researcg in the field of ML
+- Energy and performance metrics
+- Green AI
+
