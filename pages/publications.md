@@ -13,7 +13,7 @@ permalink: /publications
 ### Ongoing 
 ---
 
-* **Rodrigues C.**, Riley G., Lujan M. (2018) SyNERGY: An energy measurement and prediction framework for Convolutional Neural Networks on Jetson TX1. Accepted at DSAA 2018: The 5th IEEE International Conference on Data Science and Advanced Analytics (*To appear*) 
+* **Rodrigues C.**, Riley G., Lujan M. (2018) SyNERGY: An energy measurement and prediction framework for Convolutional Neural Networks on Jetson TX1. Accepted at CSCE 2018: The 24th International Conference on Parallel and Distributed Processing Techniques and Applications (*To appear*) 
 
 ### Conference papers
 ----
