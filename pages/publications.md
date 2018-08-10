@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-link: publications
+link: /publications
 ---
 
 
