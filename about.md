@@ -3,13 +3,7 @@ layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+Hi! My name is Crefeda Faviola Rodrigues. I am from the sunny and beautiful land of Goa! I am a PhD student at the Advanced processors technology group at The University of Manchester.
 
-Reasons:
-- its great.
-- its a test.
+I work at the intersection of systems research and machine learning. My interests include but not limited to Machine learning, Heterogenous computing and Green Computing.
 
-## Other thoughts
-
-This is great.
