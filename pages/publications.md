@@ -18,7 +18,7 @@ link: /publications
 
 * **Rodrigues C.**, Roy S. (2014) Echo Canceller Using Error Back Propagation Algorithm. 2014 International Conference on Soft Computing and Machine Intelligence (ISCMI). [IEEE](https://ieeexplore.ieee.org/abstract/document/7079362/) 
 
-* **Rodrigues C.**, Roy S. (2014) Performance Evaluation of Error Back Propagation Algorithm for Non-Linear Classification and Function Approximation in VHDL Platform. 2014 International Conference on Advances in Computer Engineering & Applications  (ICACEA). [IJCA](https://ieeexplore.ieee.org/abstract/document/7079362/) 
+* **Rodrigues C.**, Roy S. (2014) Performance Evaluation of Error Back Propagation Algorithm for Non-Linear Classification and Function Approximation in VHDL Platform. 2014 International Conference on Advances in Computer Engineering & Applications  (ICACEA). [IJCA](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.735.7572&rep=rep1&type=pdf) 
 
 
 ### arXiv papers
