@@ -1,14 +1,10 @@
 ---
 layout: page
 title: Publications
-link: /publications
+link: publications
 ---
 
----
-layout: page
-title: Publications
-permalink: /publications
----
+
 
 ### Ongoing 
 ---
