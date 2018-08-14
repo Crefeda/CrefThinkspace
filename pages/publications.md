@@ -14,7 +14,7 @@ link: /publications
 ### Conference papers
 ----
 
-* **Rodrigues C.**, Riley G., Lujan M. (2017) Fine-grained energy profiling for deep convolutional neural networks on the Jetson TX1. 2017 IEEE International Symposium on Workload Characterization (IISWC). [PDF](https://ieeexplore.ieee.org/abstract/document/8167764/) 
+* **Rodrigues C.**, Riley G., Lujan M. (2017) Fine-grained energy profiling for deep convolutional neural networks on the Jetson TX1. 2017 IEEE International Symposium on Workload Characterization (IISWC). [IEEE](https://ieeexplore.ieee.org/abstract/document/8167764/) 
 
 * **Rodrigues C.**, Roy S. (2014) Echo Canceller Using Error Back Propagation Algorithm. 2014 International Conference on Soft Computing and Machine Intelligence (ISCMI). [IEEE](https://ieeexplore.ieee.org/abstract/document/7079362/) 
 
@@ -28,7 +28,7 @@ Deep Convolutional Neural Networks. [PDF](http://citeseerx.ist.psu.edu/viewdoc/d
 
 
 
-### Workshop papers
+### Workshops
 ----
 * **Rodrigues C.**, Riley G., Lujan M. (2018) Energy and performance profiling of Convolutional Neural Networks on the Jetson TX1. International Workshop on Performance Analysis of Machine Learning Systems (FastPath-18). ISPASS 2018. Presented as talk. [VIDEO](https://www.youtube.com/watch?v=dllIlfq4zkk)
 
@@ -36,7 +36,7 @@ Deep Convolutional Neural Networks. [PDF](http://citeseerx.ist.psu.edu/viewdoc/d
 
 * **Rodrigues C.**, Riley G., Lujan M. (2017) Fine-Grained Energy Profiling of Deep Convolutional Neural Networks on the Jetson TX1. 2017 ARM Research summit. Presented as a poster. [Poster](https://github.com/Crefeda/ARM_Research_Summit/blob/master/ARM_RESEARCH_SUMMIT_2017.pdf)
 
-* **Rodrigues C.**, Riley G., Lujan M. (2017) Efficient Execution of Deep Convolutional Neural Networks on Low Power Heterogeneous Systems. 2016 ARM Research summit. Presented as a poster + talk. [Poster](https://github.com/Crefeda/ARM_Research_Summit/blob/master/ARM_SUMMIT_POSTER_2016.pdf) 
+* **Rodrigues C.**, Riley G., Lujan M. (2016) Efficient Execution of Deep Convolutional Neural Networks on Low Power Heterogeneous Systems. 2016 ARM Research summit. Presented as a poster + talk. [Poster](https://github.com/Crefeda/ARM_Research_Summit/blob/master/ARM_SUMMIT_POSTER_2016.pdf) 
 
 
 ### Dissertation work
