@@ -9,7 +9,7 @@ link: /publications
 ### Ongoing 
 ---
 
-* **Rodrigues C.**, Riley G., Lujan M. (2018) Fine-Grained Energy and Performance Profiling framework for Deep Convolutional Neural Networks. Confirmed talk and Poster at the ARM Research Summit 2018 (*September 17-19*) 
+* **Rodrigues C.**, Riley G., Lujan M. (2018) Energy predictive models for Convolutional Neural Networks on ARM mobile platforms. Confirmed talk and Poster at the ARM Research Summit 2018 (*September 17-19*) 
 
 * **Rodrigues C.**, Riley G., Lujan M. (2018) Fine-Grained Energy and Performance Profiling framework for Deep Convolutional Neural Networks. Confirmed talk at International Workshop on Energy Efficient Data Mining and Knowledge Discovery, ECML PKDD 2018 (*September 14*) 
 
