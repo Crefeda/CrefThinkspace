@@ -9,7 +9,7 @@ link: /publications
 ### Conference papers
 ----
 
-* **Rodrigues C.**, Riley G., Lujan M. (2018) SyNERGY: An energy measurement and prediction framework for Convolutional Neural Networks on Jetson TX1. Accepted at CSCE 2018: The 24th International Conference on Parallel and Distributed Processing Techniques and Applications [CSREA](https://csce.ucmss.com/cr/books/2018/LFS/CSREA2018/PDP4261.pdf) 
+* **Rodrigues C.**, Riley G., Lujan M. (2018) SyNERGY: An energy measurement and prediction framework for Convolutional Neural Networks on Jetson TX1. The 24th International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA18) [CSREA](https://csce.ucmss.com/cr/books/2018/LFS/CSREA2018/PDP4261.pdf) 
 
 * **Rodrigues C.**, Riley G., Lujan M. (2017) Fine-grained energy profiling for deep convolutional neural networks on the Jetson TX1. 2017 IEEE International Symposium on Workload Characterization (IISWC). [IEEE](https://ieeexplore.ieee.org/abstract/document/8167764/) 
 
